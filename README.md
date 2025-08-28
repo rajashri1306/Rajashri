@@ -2,8 +2,8 @@
 
 💻 ## PHP Developer | Backend Developer
 
-🔹 Skilled in PHP (CodeIgniter,Ajax,Jquery,Javascript), React.js, Node.js, MongoDB, MySQL**  
-🔹 Experienced with Authentication, Role & Privilege Management, Task Management Systems**  
+🔹 Skilled in PHP (CodeIgniter,Ajax,Jquery,Javascript), React.js, Node.js, MongoDB, MySQL.
+🔹 Experienced with Authentication, Role & Privilege Management, Task Management Systems.
 
 ---
 
